@@ -1,1 +1,2 @@
-# PRODIGY_DS_03
+# Bank Deposit Prediction Using Decision Tree Classifier
+This project aims to predict whether a customer will make a term deposit with the bank, using a Decision Tree Classifier model with an accuracy of 72.5% on the test set. The dataset includes various customer attributes, such as age, balance, loan status, and previous campaign outcomes, which undergo preprocessing steps like label encoding for categorical variables. After encoding and dropping irrelevant features, the data is split into training and testing sets. This model can provide valuable insights for targeted marketing campaigns, helping banks to identify potential depositors based on historical customer data.
